@@ -23,3 +23,15 @@ game.com
 ##### Menu
 ![alt text](https://github.com/Abdul-Hadi-Munir/Break_The_Bricks_in_ASM/blob/main/PICS/Menu.png)
 
+##### Instruction
+![alt text](https://github.com/Abdul-Hadi-Munir/Break_The_Bricks_in_ASM/blob/main/PICS/Instruction.png)
+
+##### Difficulty
+![alt text](https://github.com/Abdul-Hadi-Munir/Break_The_Bricks_in_ASM/blob/main/PICS/Difficulty.png)
+
+##### Gameplay
+![alt text](https://github.com/Abdul-Hadi-Munir/Break_The_Bricks_in_ASM/blob/main/PICS/game_dis.png)
+![alt text](https://github.com/Abdul-Hadi-Munir/Break_The_Bricks_in_ASM/blob/main/PICS/game_dis1.png)
+
+##### ScoreBoard
+![alt text](https://github.com/Abdul-Hadi-Munir/Break_The_Bricks_in_ASM/blob/main/PICS/Score.png)
